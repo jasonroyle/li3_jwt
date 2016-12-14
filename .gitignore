@@ -1,3 +1,7 @@
+# IntelliJ Idea IDEs #
+######################
+.idea
+
 # OS generated files #
 ######################
 .DS_Store
