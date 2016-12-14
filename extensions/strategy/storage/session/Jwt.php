@@ -15,7 +15,7 @@ class Jwt extends \lithium\core\Object {
 	 *
 	 * @var array
 	 */
-	protected $_classes = ['jwt' => '\JWT'];
+	protected $_classes = ['jwt' => '\Firebase\JWT\JWT'];
 
 	/**
 	 * Default configuration.
